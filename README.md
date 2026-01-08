@@ -1,8 +1,8 @@
-# 💰 Gelir - Gider Takip Uygulaması (React)
+# Gelir - Gider Takip Uygulaması (React)
 
 Bu proje, kullanıcıların gelir ve giderlerini tek bir panel üzerinden takip edebileceği, modern arayüze sahip bir web uygulamasıdır.
 
-## 🚀 Özellikler
+##  Özellikler
 - **Kullanıcı Kaydı ve Girişi:** LocalStorage tabanlı çoklu kullanıcı desteği.
 - **Beni Hatırla:** Giriş bilgilerini tarayıcıda saklama seçeneği.
 - **Dinamik Dashboard:** Toplam bakiye, gelir ve gider özetleri.
@@ -10,13 +10,13 @@ Bu proje, kullanıcıların gelir ve giderlerini tek bir panel üzerinden takip 
 - **Filtreleme:** İşlemleri Gelir/Gider olarak kategorize etme ve filtreleme.
 - **Veri Kalıcılığı:** Sayfa yenilense de veriler LocalStorage sayesinde silinmez.
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 - **React.js** (Functional Components, Hooks)
 - **Tailwind CSS** (Responsive Tasarım)
 - **React Router DOM** (Sayfa Yönlendirme)
 - **Chart.js & React-Chartjs-2** (Veri Görselleştirme)
 
-## 📦 Kurulum
+##  Kurulum
 Projeyi yerelinizde çalıştırmak için:
 
 1. Bu depoyu klonlayın: `git clone <repo-url>`
